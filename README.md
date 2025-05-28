@@ -16,5 +16,3 @@ Link: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
   a. Both fields are empty
   4- Part 4: Visibility of widgets in Home page
   a. 7 widgets in Home page
-
-	
